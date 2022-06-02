@@ -5,8 +5,9 @@
 
 
 <html>	
-<title>THE DIGI SERVICE INDIA </title>
-</head>
+	
+
+
 
 
 
@@ -22,25 +23,23 @@ p{font-size: 20;font-family: arial black;background: black;color: white;align-co
 </style>
 
 <body>
-<form action="www.digiserviceindia.com"method="pos
 <h1><marquee behavior="alternate">DIGI SERVICE INDIA</marquee></h1>
 
 <p class="class"><marquee behavior="scroll">THE DATA ENTRY TYPING WORK &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE DATA ENTRY TYPING WORK&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; THE DATA ENTRY TYPING WORK</marquee> </p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 
-<table border="0"cellspacing="20"cellpadding="20">
-<tr  >
-<td bgcolor="yellow">
+
+
 <ul><p class="note">
 <center><span style="font-size:19;color:red;"><b><u>
- NO WORK LOAD!!!!NO TARGET!!!!
+NO WORK LOAD!!!!NO TARGET!!!!
 </u></b>&nbsp;&nbsp;&nbsp;</span></center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <center>"COMPANY WILL PROVIDE YOU A PDF's FILE YOU HAVE TO</center> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JUST SEE AND TYPE AS IT IS MS-WORD"
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JUST SEE AND TYPE AS IT IS MS-WORD"
 <br>
 <br>
 <br>
@@ -318,27 +317,30 @@ Registration Certificate of Establishment
  Regards        :DIGIDERVICESINDIA
 
 
-</p>
 
 
 
 
 
 
-</ul>
-</td>
+
+
+
 <td bgcolor="violet">
    <br><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<center><span style="font-size:19;color:red;"><b><u>
+<center><span style="font-size:19;color:red;"><b><u>
    कोई काम लोड नहीं!!!! कोई लक्ष्य नहीं!!!!
-</u></b></span></center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<center>"कंपनी आपको एक पीडीएफ की फाइल प्रदान करेगी जिसे आपको करना है <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;बस देखें और टाइप करें क्योंकि यह एमएस-वर्ड है"
+</u></b></span></center>
+
+
+	<center>"कंपनी आपको एक पीडीएफ की फाइल प्रदान करेगी जिसे आपको करना है <br>
+
+		
+		बस देखें और टाइप करें क्योंकि यह एमएस-वर्ड है"
 </center><br>
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<li><span style="font-size:20;color:violet;"><B>कार्य विवरण</B></span><br>
+<li><span style="font-size:20;color:violet;"><B>कार्य विवरण</B></span><br>
 <br>
 “बस केवल एमएस शब्द ज्यादातर चित्रों पर टाइपिंग कर रहे हैं
 <br>
@@ -348,9 +350,13 @@ Registration Certificate of Establishment
 <b>
 
 <li>
-DIGI SERVICES INDIA </b>एक डेटा आउटसोर्सिंग है
+<b><span style="color:yellow;">DIGI SERVICES INDIA </span></b>
+	
+	एक डेटा आउटसोर्सिंग है
 <br> 
-कंपनी जो पीडीएफ फाइल प्रदान करती है, आप बस देखते हैं और
+कंपनी जो पीडीएफ फाइल प्रदान करती है, 
+	
+	आप बस देखते हैं और
 <br>
  कंपनी द्वारा प्रदान किए गए दिशानिर्देशों के अनुसार इसे MS-WORD या HTML पर टाइप करें 
 <br>
@@ -361,8 +367,9 @@ DIGI SERVICES INDIA </b>एक डेटा आउटसोर्सिंग �
 इनलाइन छवि 6इनलाइन छवि 3 
 
 <br>
-कंपनी प्रति असाइनमेंट 10,000 रुपये का भुगतान करेगी
+कंपनी प्रति असाइनमेंट <span style="color:blue;">10,000 </span>रुपये का भुगतान करेगी
 <br>
+	
 2007 से काम कर रही कंपनी 
 <br>
 
@@ -371,17 +378,17 @@ DIGI SERVICES INDIA </b>एक डेटा आउटसोर्सिंग �
 
  
 <br>
-<b>राष्ट्रीय स्तर पर।
-</b>
+ <span style="color:blue;"><b>राष्ट्रीय स्तर पर।</b></span>
+
 <br>
 <br>
 <br>
 <br>
-<b><u><li>नौकरी के बारे में
+<b><u><li>नौकरी के बारे में</u> :- </b>
 
 
-</u> 
-:- </b>
+ 
+
 <br>  
 <br>
 <br>
@@ -402,7 +409,7 @@ DIGI SERVICES INDIA </b>एक डेटा आउटसोर्सिंग �
 <br>
 
 
-<b><u><li>कानूनी दस्तावेज </u></b>&nbsp; = हमारी कंपनी आपको एक प्रदान करती है 
+<li><<b><u>कानूनी दस्तावेज </u></b>&nbsp; = हमारी कंपनी आपको एक प्रदान करती है 
 <br>
 
 कानूनी बांड कागज सबूत जिसमें कंपनी का उल्लेख 
@@ -454,14 +461,15 @@ DIGI SERVICES INDIA </b>एक डेटा आउटसोर्सिंग �
 
 
 
-कार्य विवरण
+<li>कार्य विवरण
 
 
 <br>
-<br><span style="color:red;">
+<br>
+<li><span style="color:lemon;">ध्यान से पढ़ें</span>
 
-ध्यान से पढ़ें
-</span>
+
+
 <br>
 <br>
 
@@ -593,21 +601,20 @@ C2/78 वशांत स्ट्रीट, गाजियाबाद, उत
 </tr></table>
 
 <p class="go">
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOCATION =  &nbsp;<a href="https://goo.gl/maps/k2CYBYStDMYB4aDCA">https://goo.gl/maps/k2CYBYStDMYB4aDCA</a><br><br>
+LOCATION =  &nbsp;<a href="https://goo.gl/maps/k2CYBYStDMYB4aDCA">https://goo.gl/maps/k2CYBYStDMYB4aDCA</a><br><br>
 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: red;">ADDRESS</span> = C2/78VASHANT STREET,GHAZIABAD,UTTER PRADESH-201002
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TERMS AND CONDITIONS APPLY<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span style="color: red;">ADDRESS</span> = C2/78VASHANT STREET,GHAZIABAD,UTTER PRADESH-201002
 
-</p>
+
+	TERMS AND CONDITIONS APPLY<br><br>
 
 
 
 
-</form>
 
-</body>
+
+
+
+
 
 </html>
