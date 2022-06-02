@@ -594,11 +594,11 @@ C2/78 वशांत स्ट्रीट, गाजियाबाद, उत
 
 
 
-</td>
-</tr>
-<tr>
 
-</tr></table>
+
+
+
+
 
 <p class="go">
 LOCATION =  &nbsp;<a href="https://goo.gl/maps/k2CYBYStDMYB4aDCA">https://goo.gl/maps/k2CYBYStDMYB4aDCA</a><br><br>
